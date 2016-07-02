@@ -5,3 +5,5 @@
 B1 I think, I am, B1
 
 B2: It's conflict time!
+
+Both: Conflict resolving time!
